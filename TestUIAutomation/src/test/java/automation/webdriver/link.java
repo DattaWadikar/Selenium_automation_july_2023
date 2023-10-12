@@ -42,7 +42,8 @@ public class link {
 				if (httpurlconnection.getResponseCode()==200) {
 					
 					System.out.println(url +"-"+httpurlconnection.getResponseMessage());
-					
+					System.out.println(url +"-"+httpurlconnection.getResponseMessage());
+
 				}
 				else
 					System.out.println(url +"-"+httpurlconnection.getResponseMessage()+"-"+"is Browken link");
