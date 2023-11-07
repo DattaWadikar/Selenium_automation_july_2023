@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="8" passed="8" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-11-07T12:02:26 IST" name="Suite" finished-at="2023-11-07T12:02:26 IST" duration-ms="258">
+    <groups>
+    </groups>
+    <test started-at="2023-11-07T12:02:26 IST" name="Personal loan" finished-at="2023-11-07T12:02:26 IST" duration-ms="88">
+      <class name="automation.testNG.day2">
+        <test-method signature="fourthTest()[pri:0, instance:automation.testNG.day2@3bf9ce3e]" started-at="2023-11-07T12:02:26 IST" name="fourthTest" finished-at="2023-11-07T12:02:26 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fourthTest -->
+        <test-method signature="thirdTest()[pri:0, instance:automation.testNG.day2@3bf9ce3e]" started-at="2023-11-07T12:02:26 IST" name="thirdTest" finished-at="2023-11-07T12:02:26 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- thirdTest -->
+      </class> <!-- automation.testNG.day2 -->
+      <class name="automation.testNG.testNGDemo">
+        <test-method signature="firstTest()[pri:0, instance:automation.testNG.testNGDemo@3c73951]" started-at="2023-11-07T12:02:26 IST" name="firstTest" finished-at="2023-11-07T12:02:26 IST" duration-ms="12" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- firstTest -->
+        <test-method signature="secondTest()[pri:0, instance:automation.testNG.testNGDemo@3c73951]" started-at="2023-11-07T12:02:26 IST" name="secondTest" finished-at="2023-11-07T12:02:26 IST" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- secondTest -->
+      </class> <!-- automation.testNG.testNGDemo -->
+    </test> <!-- Personal loan -->
+    <test started-at="2023-11-07T12:02:26 IST" name="car loan" finished-at="2023-11-07T12:02:26 IST" duration-ms="33">
+      <class name="automation.testNG.day2">
+        <test-method signature="fourthTest()[pri:0, instance:automation.testNG.day2@4dbb42b7]" started-at="2023-11-07T12:02:26 IST" name="fourthTest" finished-at="2023-11-07T12:02:26 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fourthTest -->
+        <test-method signature="thirdTest()[pri:0, instance:automation.testNG.day2@4dbb42b7]" started-at="2023-11-07T12:02:26 IST" name="thirdTest" finished-at="2023-11-07T12:02:26 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- thirdTest -->
+      </class> <!-- automation.testNG.day2 -->
+      <class name="automation.testNG.testNGDemo">
+        <test-method signature="firstTest()[pri:0, instance:automation.testNG.testNGDemo@21282ed8]" started-at="2023-11-07T12:02:26 IST" name="firstTest" finished-at="2023-11-07T12:02:26 IST" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- firstTest -->
+        <test-method signature="secondTest()[pri:0, instance:automation.testNG.testNGDemo@21282ed8]" started-at="2023-11-07T12:02:26 IST" name="secondTest" finished-at="2023-11-07T12:02:26 IST" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- secondTest -->
+      </class> <!-- automation.testNG.testNGDemo -->
+    </test> <!-- car loan -->
+  </suite> <!-- Suite -->
+</testng-results>
